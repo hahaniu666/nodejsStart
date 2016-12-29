@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="$USER_HOME$/work/kingsilk/q-wap-front/src/controllers/main/intelligentCabinet.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/work/kingsilk/q-wap-front/src/controllers/main/item/list.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/work/kingsilk/q-wap-front/src/scss/biz/_ks-intelligentCabinet.scss">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/work/kingsilk/q-wap-front/src/scss/biz/_ks-item.scss">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/work/kingsilk/q-wap-front/src/views/main/IntelligentCabinet/index.root.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/work/kingsilk/q-wap-front/src/views/main/item/index.root.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/work/kingsilk/q-wap-front/src/views/main/item/list/index.root.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
